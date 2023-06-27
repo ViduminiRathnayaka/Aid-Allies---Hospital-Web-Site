@@ -10,7 +10,7 @@ HTML: Used for structuring the web pages and organizing the content.
 CSS: Utilized for styling and enhancing the visual appearance of the website.
 # File Structure
 The repository has the following file structure:
-'''sh
+
 ├── web
 │   ├── home.html
 │   └── ...
@@ -20,4 +20,4 @@ The repository has the following file structure:
 │   ├── logo.png
 │   └── ...
 └── README.md
-'''
+
