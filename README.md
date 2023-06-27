@@ -21,3 +21,23 @@ The repository has the following file structure:
 │   └── ...
 └── README.md
 
++---node_modules
++---public  
+¦   +---icons       
+¦   +---images
+¦           
+¦           
++---src
+    ¦   App.js
+    ¦   App.scss
+    ¦   App.test.js
+    ¦   index.css
+    ¦   index.js
+    ¦   setupTests.js
+    ¦   
+    +---components
+    +---pages
+
+¦   package-lock.json
+¦   package.json
+¦   README.md
